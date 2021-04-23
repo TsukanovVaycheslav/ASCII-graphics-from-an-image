@@ -1,0 +1,6 @@
+C:\Users\vtsuk\OneDrive\Рабочий стол\Proj - C#\ASCII graphics from an image\ASCII graphics from an image\obj\Debug\ASCII graphics from an image.csproj.CoreCompileInputs.cache
+C:\Users\vtsuk\OneDrive\Рабочий стол\Proj - C#\ASCII graphics from an image\ASCII graphics from an image\bin\Debug\ASCII graphics from an image.exe.config
+C:\Users\vtsuk\OneDrive\Рабочий стол\Proj - C#\ASCII graphics from an image\ASCII graphics from an image\bin\Debug\ASCII graphics from an image.exe
+C:\Users\vtsuk\OneDrive\Рабочий стол\Proj - C#\ASCII graphics from an image\ASCII graphics from an image\bin\Debug\ASCII graphics from an image.pdb
+C:\Users\vtsuk\OneDrive\Рабочий стол\Proj - C#\ASCII graphics from an image\ASCII graphics from an image\obj\Debug\ASCII graphics from an image.exe
+C:\Users\vtsuk\OneDrive\Рабочий стол\Proj - C#\ASCII graphics from an image\ASCII graphics from an image\obj\Debug\ASCII graphics from an image.pdb
